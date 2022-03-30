@@ -1,14 +1,14 @@
-![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/hackathon_flyer.jpg?raw=true)
+![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/hackathon_flyer_final.jpg?raw=true)
 
 All links to online meetings are published on the following workspace chat https://chat.google.com/preview/room/AAAAqLUOT8c
 
 # HackathonCameroon2022
 
-Over the last 10 years, Cameroon started a process of decentralization: provinces have been changed into Regions, and senators has been established across the country. In 2019, the Government instituted “the general code of regional and local authorities” empowering the localities of each big town of Cameroon: regional councils and presidents of the region have been elected. In 2021, common decentralisation funds have been distributed for 2022. In a decree, the president of the republic of Cameroon transfered URBANISATION AND HOUSING competences to local authorities, giving them more power and budget to master local territorial developments. This unprecendented opportunity comes with economical growth and finantial autonomisation challenges to solve. 
+Over the last 10 years, Cameroon started a process of decentralization: provinces have been changed into regions, and senators have been established across the country. In 2019, the Government instituted the “General code of regional and local authorities” empowering the localities of each big town of Cameroon: regional councils and presidents of the regions have been elected. In 2021, common decentralisation funds have been distributed. In a decree, the president of the republic of Cameroon transfered URBANISATION AND HOUSING responsibilities to local authorities, giving them more power and budget to master local territorial developments. This unprecendented opportunity comes with economical and finantial autonomisation challenges to solve. 
 
-In order to address these issues, the National Business Incubator of Cameroon has been built in Edea. The place is in charge for training staffs of local authorities and city councils, as well as growing the seeds of the next generation of innovative entreprises of the country. This year it collaborates with an internation team of urbanists traveling the African continent under the name of "Traveling Circus of Urbanism" with the objective to solve precisely local urban challenges faced by Cameroonian municipalities. 
+In order to address these challenges, the National Business Incubator of Cameroon has been built in Edea. The place is in charge for training staffs of local authorities and city councils, as well as growing the seeds of the next generation of innovative entreprises of the country. This year it collaborates with an international team of urbanists traveling the African continent under the name of "Traveling Circus of Urbanism" with the objective to solve precisely local urban challenges faced by Cameroonian municipalities. 
 
-Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us to detect the most promising teams and ideas willing to shape the Cameroonian startup ecosystem of tomorrow. Participants will benefit the most valuable mentoring of international experts on the topic, and shape the better solutions to the crucial issues faced by our cities nowadays. The winners of the hackathon will be integrated to a 4-Months program of the National Business Incubator where they will receive support to go from prototype to MVP, find their market-fit, and start their business development.  
+Hackathon Cameroon 2022 is the opening event of this collaboration, allowing jury members from municipalities, local companies, business coaches, to detect the most promising teams and ideas willing to shape the Cameroonian startup ecosystem of tomorrow. Participants will benefit the most valuable mentoring of international experts on the topic, and shape the better solutions to the crucial issues faced by cities nowadays. The winners of the hackathon will be integrated to a 4-Months program of the National Business Incubator where they will receive support to go from prototype to Minimum Viable Product, find their market-fit, and start their business growth.  
 
 ## Program
 
@@ -25,7 +25,7 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - 1 pm: third workshop (Causality mapping by Surjyatapa)
 - 2 pm: fourth workshop (Geospatial platform by Jordy)
 - 3 pm: fifth workshop (Design thinking by Anahide)
-- 5 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their solution proposal and upskilled themselves to produce the best prototype. 
+- 7 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their solution proposal and upskilled themselves to produce the best prototype. 
 
 ###### Monday 28 of march
 - 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support demands over coaches. 
@@ -34,14 +34,14 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - 1 pm: eighth workshop (Crowdfounding by Roland)
 - 2 pm: ninth workshop (Content writing by Bate)
 - 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle)
-- 5 pm: checkpoint with mentors #3. All teams take the call. Youtube + GitHub training. Attendents should have their submission and demo video in mind. 
+- 7 pm: checkpoint with mentors #3. All teams take the call, present their prototype, business model, strategy for growth.
 
 ###### Tuesday 29 of March
-- 9 am: checkpoint with mentors #4. All teams take the call. Last chance for final advices before submission. 
+- 9 am: checkpoint with mentors #4. All teams take the call,Youtube training. Attendents should work on their submission and demo video from now.
 - 10 am: arrival of the minister and welcoming protocol. Official speakers.
 - 11 am: visit of the National Business Incubator. Inauguration of the FabLab.
-- 12 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
-- 2 pm: final ceremony with choice from the jury and distribution of prizes.
+- 12 pm: submission deadline. 3 min video recorded on youtube + fill the submission form.
+- 1 pm: final ceremony with choice from the jury and distribution of prizes.
 
 ## Datasets
 
